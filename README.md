@@ -1,0 +1,1 @@
+# Self_supervised_learning_for_MNIST_dataset_classification
